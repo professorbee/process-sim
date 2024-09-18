@@ -1,9 +1,3 @@
 # process-sim
-### _Your Name <your.name@example.com>_
 
-This is a project to do ... something.
-
-## License
-
-Specify license here
-
+This project will simulate different process scheduling algorithms and compare their performance.
